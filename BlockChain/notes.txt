@@ -1,0 +1,11 @@
+Network Name: Sepolia Testnet
+New RPC URL: https://rpc.sepolia.org
+Chain ID: 11155111
+Currency Symbol: ETH
+Block Explorer URL: https://sepolia.etherscan.io
+
+0xa1Ec55eE1bd5b546a8b4D43aE68AF3b2c8bE461D
+
+0x2e7606E49538d43f4FaeC18dE689B1ea7FB31F75
+
+0xc6E8a304b5Adb273e1Da0a8893dA80B06C224595
